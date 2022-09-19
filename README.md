@@ -48,6 +48,6 @@ I also practiced drafting out my solution on paper before actually coding.
 
 ## Author
 
-- Website - [Add your name here](https://steveoncaffeine.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/steveoncaffeine)
-- Twitter - [@yourusername](https://www.twitter.com/steveoncaffeine)
+- Website - [Stephen Adebambo](https://steveoncaffeine.github.io)
+- Frontend Mentor - [@steveoncaffeine](https://www.frontendmentor.io/profile/steveoncaffeine)
+- Twitter - [@steveoncaffeine](https://www.twitter.com/steveoncaffeine)
